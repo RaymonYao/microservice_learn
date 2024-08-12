@@ -1,0 +1,3 @@
+com/itmuch/usercenter/domain/entity/user/User.class
+com/itmuch/usercenter/UserCenterApplication.class
+com/itmuch/usercenter/dao/user/UserMapper.class
